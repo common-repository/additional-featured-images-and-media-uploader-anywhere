@@ -1,0 +1,23 @@
+.input-wrap-gallery {
+    max-width: 600px;
+    margin:10px 0;
+}
+
+.input-wrap-gallery > input {
+    width: 100%;
+    margin:10px 0;
+}
+.image-flex-wrap {
+    max-width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.image-flex {
+    width: 90px;
+    margin:5px;
+    text-align: center;
+}
+.image-flex img {
+   width: 100%; 
+   height: 90px;
+}
